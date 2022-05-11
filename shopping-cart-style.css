@@ -28,7 +28,7 @@ body, html{
 }
 
 #cover-photo{
-    background-image: url("comfy-room.jpg");
+    background-image: url("images/comfy-room.jpg");
     background-repeat: no-repeat;
     /* background-position: center; */
     background-size: cover;
